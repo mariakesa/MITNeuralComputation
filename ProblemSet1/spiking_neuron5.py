@@ -15,7 +15,7 @@ REFRACTORY_PERIOD = 2e-3
 # Simulation setup
 # =========================
 dt = 1e-4      # 0.1 ms
-T = 1.0
+T = 0.25
 time = np.arange(0, T, dt)
 
 # =========================
