@@ -2,3 +2,8 @@
 *.png
 *.csv
 *.json
+*.npy
+*.pkl
+*.safetensors
+*.pth
+*.html
