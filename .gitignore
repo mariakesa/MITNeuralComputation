@@ -7,3 +7,4 @@
 *.safetensors
 *.pth
 *.html
+*.npz
